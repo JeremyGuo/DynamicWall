@@ -1,0 +1,77 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "DynamicWall",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ALL::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ALL-Debug-80ba6ffa7ae03ea84c05.json",
+					"name" : "ALL",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DynamicWall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DynamicWall-Debug-2a53603ddde082e119a4.json",
+					"name" : "DynamicWall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "WallWindow::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-WallWindow-Debug-8b5a5d3af7f17f63ee7b.json",
+					"name" : "WallWindow",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/JeremyGuo/Documents/OpenGL/DynamicWall/cmake-build-debug",
+		"source" : "C:/Users/JeremyGuo/Documents/OpenGL/DynamicWall"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 2
+	}
+}

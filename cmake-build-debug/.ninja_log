@@ -1,0 +1,9 @@
+# ninja log v5
+1	352	6539443041611771	CMakeFiles/DynamicWall.dir/main.cpp.obj	6b79814c86d44871
+352	2991	6539443062310582	DynamicWall.exe	760fdb9f6c6735c0
+4	607	6539104469787006	CMakeFiles/DynamicWall.dir/WallConfig.cpp.obj	96c5a096c2abc009
+7	588	6539112409170696	CMakeFiles/DynamicWall.dir/Shader.cpp.obj	b8360a86b70b9f48
+1	839	6539135188657984	CMakeFiles/DynamicWall.dir/WallWindow.cpp.obj	777a9f57366e124b
+7	188	6539104833709284	CMakeFiles/DynamicWall.dir/stb_impl.cpp.obj	5bae891813074ae4
+1	1021	6539447542260628	CMakeFiles/WallWindow.dir/WallWindow.cpp.obj	4b6db9b77bf8b05a
+1023	1700	6539447545933967	WallWindow.exe	1595c2393527fd54

@@ -1,0 +1,4 @@
+"C:\Program Files\JetBrains\CLion 2021.2.1\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -DCMAKE_TOOLCHAIN_FILE=C:/src/vcpkg/scripts/buildsystems/vcpkg.cmake -G Ninja C:\Users\JeremyGuo\Documents\OpenGL\DynamicWall
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/JeremyGuo/Documents/OpenGL/DynamicWall/cmake-build-debug
